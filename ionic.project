@@ -1,0 +1,11 @@
+{
+  "name": "tanx2",
+  "app_id": "0a1e1643",
+  "browsers": [
+    {
+      "platform": "android",
+      "browser": "crosswalk",
+      "version": "12.41.296.5"
+    }
+  ]
+}
